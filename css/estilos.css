@@ -1,0 +1,89 @@
+.izquierda{
+    text-align: right;
+}
+
+
+
+.menu{
+    text-align: center;
+    
+}
+.menu li a{
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    color: black;
+    
+    
+    
+}
+.menu li{
+    display: inline-block;
+}
+
+.lupa{
+   text-align: right; 
+    
+}
+.encabezado{
+   
+   
+    
+}
+.imagen{
+   
+    width: 150px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.imagenizquierda{
+    margin: 20px 70px;
+}
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    
+}
+.contenedor.imagen.Sorts{
+    text-align: center;
+
+}
+
+.newes{
+    text-align: center;
+}
+.contenedor2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    
+}
+.imagen1{
+    width: 200px;
+    height: 200px;
+    margin: 10px 20px;
+}
+.imagenizquierda2{}
+.costo{
+    text-align: center;
+}
+.botones{
+    text-align: center;
+}
+.imagen2{
+    width: 200px;
+    height: 200px;
+    margin: 10px 20px;
+}
+.contenedor3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3%;
+}
